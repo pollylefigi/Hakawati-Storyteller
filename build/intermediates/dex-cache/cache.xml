@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\gson-2.2.4-f492566486de0c6f81831d37b22ada4238ecc020.jar"
+        jar="C:\Users\Nekrothunder\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-6dc98f70ee501a2f3d5ec38cd94e8749f76c2fd5.jar"
+        jar="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\classes-f4cd752319784b681c8d95c6bf2a74981ae03048.jar"
+        jar="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\wit.sdk-c86c60a2e30998af3b8cfb643d272793ce836017.jar"
+        jar="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\libs\wit.sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd7fe0a9e4130f258803c829938d093321ebd8a5"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\commons-io-2.4-adee91c32c429692b784708bf75f81ef7cfe83d9.jar"
+        jar="C:\Users\Nekrothunder\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-2e824cde11feb4a7a7ac1162419543ae1ff8a22c.jar"
+        jar="C:\adt23\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\org.apache.commons.io-2.4-b000414505b57b55fe922f562214c8f3215705cb.jar"
+        jar="C:\Users\Nekrothunder\.gradle\caches\modules-2\files-2.1\org.apache.directory.studio\org.apache.commons.io\2.4\b98d592c582262b3da8a871c7317f4902d98e996\org.apache.commons.io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b98d592c582262b3da8a871c7317f4902d98e996"/>
+    <item
+        dex="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\pre-dexed\debug\classes-64d45faa2e816f00cd256c24a05c320cc05ee90a.jar"
+        jar="C:\Users\Nekrothunder\NEWAndroidStudioProjects\Wit-Eval\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
